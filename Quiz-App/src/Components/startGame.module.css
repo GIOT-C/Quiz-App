@@ -1,0 +1,106 @@
+.parent {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.startGame {
+  width: 60%;
+  color: white;
+  text-align: center;
+}
+
+.nameOfGame {
+  padding: 20px 0 10px 0;
+}
+
+.aboutGamePartTwo {
+  padding: 20px 0 5px 0;
+}
+
+.aboutGamePartThree {
+  padding-bottom: 10px;
+}
+
+.descriptionOfBenefitsContainer {
+  padding-top: 10px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.descriptionOfBenefits {
+  display: flex;
+  padding: 10px 0;
+  border-bottom: 2px solid gray;
+}
+
+.childDescription {
+  padding-left: 40px;
+  text-align: start;
+}
+
+.childDescription > :first-child {
+  text-align: center;
+}
+
+.childDescription > :last-child {
+  color: tomato;
+}
+
+.contact {
+  padding-top: 15px;
+}
+
+.buttonForStartGame {
+  width: 200px;
+  height: 40px;
+  color: white;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.buttonForStartGame:hover {
+  background-color: chartreuse;
+  transition: 0.5s;
+  color: black;
+}
+
+@media only screen and (max-width: 600px) {
+  .startGame {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .nameOfGame {
+    padding: 20px 0;
+  }
+
+  .descriptionOfBenefits > p {
+    padding-left: 10px;
+  }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+  .startGame {
+    width: 100%;
+    padding: 10px;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+  .startGame {
+    width: 100%;
+    padding: 20px;
+  }
+}
+
+@media only screen and (min-width: 993px) and (max-width: 1115px) {
+  .startGame {
+    width: 80%;
+  }
+}

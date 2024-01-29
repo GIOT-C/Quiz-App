@@ -1,0 +1,80 @@
+.winGameParent {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: hsl(248, 15%, 11%);
+}
+
+.winGame {
+  width: 45%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: white;
+}
+
+.celebrating {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 70px;
+  color: gold;
+}
+
+.faGraduationCap {
+  font-size: x-large;
+
+  margin-left: 10px;
+}
+
+.congratulationTextOne,
+.congratulationTextThree,
+.congratulationTextFive {
+  padding: 20px 0;
+}
+
+.faHeart {
+  color: red;
+  margin-left: 5px;
+}
+
+.contact {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 10%;
+}
+
+.socialetwork {
+  display: flex;
+}
+
+.faFacebook,
+.faLinkedin {
+  font-size: 30px;
+  color: hsl(217, 94%, 49%);
+}
+
+.faGithub {
+  font-size: 30px;
+  color: white;
+}
+
+@media only screen and (max-width: 600px) {
+  .winGame {
+    width: 90%;
+  }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+  .winGame {
+    width: 90%;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+  .winGame {
+    width: 70%;
+  }
+}

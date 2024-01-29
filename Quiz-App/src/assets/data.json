@@ -1,0 +1,664 @@
+[
+  {
+    "id": 1,
+    "question": "ჩამოთვლილთაგან რომელი არ შედის მსოფლიოს 7 საოცრებათა სიაში?",
+    "probableAnswers": {
+      "probableAnswerOne": "როდოსის კოლოსი",
+      "probableAnswerTwo": "ბაბილონის გოდოლი",
+      "probableAnswerThree": "ჰალიკარნასის მავზოლეუმი",
+      "probableAnswerFour": "არტემიდას ტაძარი"
+    },
+    "trueAnswer": "2",
+    "forHalveAnswer": "4"
+  },
+
+  {
+    "id": 2,
+    "question": "რომელ წლებში მიმდინარეობდა მეორე მსოფლიო ომი?",
+    "probableAnswers": {
+      "probableAnswerOne": "1941-1945",
+      "probableAnswerTwo": "1939-1946",
+      "probableAnswerThree": "1940-1945",
+      "probableAnswerFour": "1939-1945"
+    },
+    "trueAnswer": "4",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 3,
+    "question": "რამდენი პლანეტაა მზის სისტემაში?",
+    "probableAnswers": {
+      "probableAnswerOne": "7",
+      "probableAnswerTwo": "9",
+      "probableAnswerThree": "8",
+      "probableAnswerFour": "10"
+    },
+    "trueAnswer": "3",
+    "forHalveAnswer": "1"
+  },
+
+  {
+    "id": 4,
+    "question": "რამდენი კონტინენტია დედამიწაზე?",
+    "probableAnswers": {
+      "probableAnswerOne": "8",
+      "probableAnswerTwo": "7",
+      "probableAnswerThree": "6",
+      "probableAnswerFour": "9"
+    },
+    "trueAnswer": "2",
+    "forHalveAnswer": "1"
+  },
+
+  {
+    "id": 5,
+    "question": "ვინ არის ავტორი ცნობილი ქართული ლექსისა 'მერი' ?",
+    "probableAnswers": {
+      "probableAnswerOne": "ნიკოლოზ ბარათაშვილი",
+      "probableAnswerTwo": "აკაკი წერეთელი",
+      "probableAnswerThree": "ილია ჭავჭავაძე",
+      "probableAnswerFour": "გალაკტიონ ტაბიძე"
+    },
+    "trueAnswer": "4",
+    "forHalveAnswer": "1"
+  },
+
+  {
+    "id": 6,
+    "question": "ვინ შექმნა ქიმიური ელემენტების სისტემა?",
+    "probableAnswers": {
+      "probableAnswerOne": "ალფრედ ნობელმა",
+      "probableAnswerTwo": "ჯონ დალტონმა",
+      "probableAnswerThree": "დიმიტრი მენდელეევმა",
+      "probableAnswerFour": "ანტუან ლავუაზიემ"
+    },
+    "trueAnswer": "3",
+    "forHalveAnswer": "4"
+  },
+
+  {
+    "id": 7,
+    "question": "რომელი ნაკრები გახდა 2014 წლის მსოფლიო ჩემპიონატის გამარჯვებული?",
+    "probableAnswers": {
+      "probableAnswerOne": "გერმანია",
+      "probableAnswerTwo": "ბრაზილია",
+      "probableAnswerThree": "არგენტინა",
+      "probableAnswerFour": "იტალია"
+    },
+    "trueAnswer": "1",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 8,
+    "question": "ჩამოთვლილთაგან რომელი სახელმწიფო არ მდებარეობს ევროპაში?",
+    "probableAnswers": {
+      "probableAnswerOne": "ჩეხეთი",
+      "probableAnswerTwo": "ბელგია",
+      "probableAnswerThree": "უნგრეთი",
+      "probableAnswerFour": "არგენტინა"
+    },
+    "trueAnswer": "4",
+    "forHalveAnswer": "1"
+  },
+
+  {
+    "id": 9,
+    "question": "ვინ არის ავტორი ნაწარმოებისა 'მთვარის სონატა'?",
+    "probableAnswers": {
+      "probableAnswerOne": "ბეთჰოვენი",
+      "probableAnswerTwo": "მოცარტი",
+      "probableAnswerThree": "ბახი",
+      "probableAnswerFour": "ჩაიკოვსკი"
+    },
+    "trueAnswer": "1",
+    "forHalveAnswer": "3"
+  },
+
+  {
+    "id": 10,
+    "question": "რომელი სახელმწიფოები მონაწილეობდნენ პუნიკურ ომებში?",
+    "probableAnswers": {
+      "probableAnswerOne": "სპარსეთი და რომი",
+      "probableAnswerTwo": "მაკედონია და ირანი",
+      "probableAnswerThree": "რომი და კართაგენი",
+      "probableAnswerFour": "გალები და ჰუნები"
+    },
+    "trueAnswer": "3",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 11,
+    "question": "რომელ ქართველ პოეტს უკუთვნის ლექსი 'მემენტო მორი'?",
+    "probableAnswers": {
+      "probableAnswerOne": "პაოლო იაშვილს",
+      "probableAnswerTwo": "გალაკტიონ ტაბიძეს",
+      "probableAnswerThree": "ტერენტი გრანელს",
+      "probableAnswerFour": "ბესარიონ გაბაშვილს"
+    },
+    "trueAnswer": "3",
+    "forHalveAnswer": "4"
+  },
+
+  {
+    "id": 12,
+    "question": "რომელი ქართველი მეფის მმართველობის პერიოდშია შედგენილი ქართული სამართლის წიგნი 'ძეგლისდება'?",
+    "probableAnswers": {
+      "probableAnswerOne": "თამარ მეფის",
+      "probableAnswerTwo": "დავით აღმაშენებლის",
+      "probableAnswerThree": "ერეკლე მეორის",
+      "probableAnswerFour": "გიორგი ბრწყინვალეს"
+    },
+    "trueAnswer": "4",
+    "forHalveAnswer": "1"
+  },
+
+  {
+    "id": 13,
+    "question": "რომელია საქართველოში ყველაზე მაღალი მწვერვალი?",
+    "probableAnswers": {
+      "probableAnswerOne": "შხარა",
+      "probableAnswerTwo": "უშბა",
+      "probableAnswerThree": "მყინვარწვერი",
+      "probableAnswerFour": "თეთნულდი"
+    },
+    "trueAnswer": "1",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 14,
+    "question": "იესო ქრისტეს მოციქულთაგან რომელმა უარყო ქრისტე სამჯერ?",
+    "probableAnswers": {
+      "probableAnswerOne": "იუდამ",
+      "probableAnswerTwo": "პეტრემ",
+      "probableAnswerThree": "ლუკამ",
+      "probableAnswerFour": "მარკოზმა"
+    },
+    "trueAnswer": "2",
+    "forHalveAnswer": "4"
+  },
+
+  {
+    "id": 15,
+    "question": "წარმოშობით სადაურია აგათა კრისტის ცნობილი პერსონაჟი ერკიულ პუარო?",
+    "probableAnswers": {
+      "probableAnswerOne": "ბრიტანელი",
+      "probableAnswerTwo": "ბელგიელი",
+      "probableAnswerThree": "ამერიკელი",
+      "probableAnswerFour": "ესპანელი"
+    },
+    "trueAnswer": "2",
+    "forHalveAnswer": "1"
+  },
+
+  {
+    "id": 16,
+    "question": "ვის ეკუთვნის ფრაზა 'კართაგენი უნდა დაინგრეს'?",
+    "probableAnswers": {
+      "probableAnswerOne": "მარკუს ავრელიუსს",
+      "probableAnswerTwo": "იულიუს კეისარს",
+      "probableAnswerThree": "კატონ უფროსს",
+      "probableAnswerFour": "ოქტავიანე ავგუსტუსს"
+    },
+    "trueAnswer": "3",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 17,
+    "question": "ვინ შემოიტანა ქრისტიანობა საქართველოში?",
+    "probableAnswers": {
+      "probableAnswerOne": "წმინდა ნინომ",
+      "probableAnswerTwo": "ანდრია პირველწოდებულმა",
+      "probableAnswerThree": "წმინდა გიორგიმ",
+      "probableAnswerFour": "იოანე ოქროპირმა"
+    },
+    "trueAnswer": "1",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 18,
+    "question": "რომელია მსოფლიოში ყველაზე გრძელი მდინარე?",
+    "probableAnswers": {
+      "probableAnswerOne": "მისისიპი",
+      "probableAnswerTwo": "ამაზონი",
+      "probableAnswerThree": "ნილოსი",
+      "probableAnswerFour": "იანძი"
+    },
+    "trueAnswer": "3",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 19,
+    "question": "ვინ მეთაურობდა 1121 წელს დიდგორის ბრძოლაში სელჩუკთა კოალიციურ ლაშქარს?",
+    "probableAnswers": {
+      "probableAnswerOne": "შაჰ-აბასი",
+      "probableAnswerTwo": "მურვან ყრუ",
+      "probableAnswerThree": "თემურ ლენგი",
+      "probableAnswerFour": "ილღაზი"
+    },
+    "trueAnswer": "4",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 20,
+    "question": "რომელი ნახატი არ შედის ნიკო ფიროსმანის შემოქმედებათა სიაში?",
+    "probableAnswers": {
+      "probableAnswerOne": "მეეზოვე",
+      "probableAnswerTwo": "კარის მოცეკვავეები",
+      "probableAnswerThree": "აქტრისა მარგარიტა",
+      "probableAnswerFour": "დათვი მთვარიან ღამეში"
+    },
+    "trueAnswer": "2",
+    "forHalveAnswer": "3"
+  },
+
+  {
+    "id": 21,
+    "question": "რომელია ზედაპირის ფართობით ყველაზე დიდი ტბა საქართელოში?",
+    "probableAnswers": {
+      "probableAnswerOne": "რიწის ტბა",
+      "probableAnswerTwo": "პალიასტომის ტბა",
+      "probableAnswerThree": "ტობავარჩხილი",
+      "probableAnswerFour": "ფარავანი"
+    },
+    "trueAnswer": "4",
+    "forHalveAnswer": "1"
+  },
+
+  {
+    "id": 22,
+    "question": "ვინ არის ავტორი ცნობილი ნახატისა სახელწოდებით 'კივილი'?",
+    "probableAnswers": {
+      "probableAnswerOne": "ედვარდ მუნკი",
+      "probableAnswerTwo": "პაბლო პიკასო",
+      "probableAnswerThree": "სალვადორ დალი",
+      "probableAnswerFour": "ვინსენტ ვან გოგი"
+    },
+    "trueAnswer": "1",
+    "forHalveAnswer": "3"
+  },
+
+  {
+    "id": 23,
+    "question": "რომელი ქართველი მეფის თაოსნობით შეიქმნა ბუფერული სახელმწიფო ტრაპიზონი?",
+    "probableAnswers": {
+      "probableAnswerOne": "ვახტანგ გორგასალის",
+      "probableAnswerTwo": "დავით აღმაშენებლის",
+      "probableAnswerThree": "თამარ მეფის",
+      "probableAnswerFour": "დემეტრე თავდადებულის"
+    },
+    "trueAnswer": "3",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 24,
+    "question": "ვინ იყო ალექსანდრე მაკედონელის მასწავლებელი?",
+    "probableAnswers": {
+      "probableAnswerOne": "არისტოტელე",
+      "probableAnswerTwo": "სოკრატე",
+      "probableAnswerThree": "პლატონი",
+      "probableAnswerFour": "ჰიპოკრატე"
+    },
+    "trueAnswer": "1",
+    "forHalveAnswer": "4"
+  },
+
+  {
+    "id": 25,
+    "question": "ვინ არის ავტორი წიგნისა 'ნათლია'?",
+    "probableAnswers": {
+      "probableAnswerOne": "ფრენსის ფორდ კოპოლა",
+      "probableAnswerTwo": "ოსკარ უაილდი",
+      "probableAnswerThree": "ჩარლზ დიკენსი",
+      "probableAnswerFour": "მარიო პიუზო"
+    },
+    "trueAnswer": "4",
+    "forHalveAnswer": "3"
+  },
+
+  {
+    "id": 26,
+    "question": "ვინ დასაჯა სიკვდილით შუშანიკის მეუღლე, ვარსქენ პიტიახში?",
+    "probableAnswers": {
+      "probableAnswerOne": "ირანის სულთანმა",
+      "probableAnswerTwo": "ვახტანგ გორგასალმა",
+      "probableAnswerThree": "ჯოჯიკმა",
+      "probableAnswerFour": "ბიზანტიის იმპერატორმა"
+    },
+    "trueAnswer": "2",
+    "forHalveAnswer": "1"
+  },
+
+  {
+    "id": 27,
+    "question": "' ერის გათახსირება, პირქვე დამხობა და გაწყალება იწყება მაშინ, როდესაც თავის ისტორიას ივიწყებს ' ვის ეკუთვნის ეს სიტყვები?",
+    "probableAnswers": {
+      "probableAnswerOne": "კონსტანტინე გამსახურდიას",
+      "probableAnswerTwo": "დავით კლდიაშვილს",
+      "probableAnswerThree": "ილია ჭავჭავაძეს",
+      "probableAnswerFour": "მერაბ კოსტავას"
+    },
+    "trueAnswer": "3",
+    "forHalveAnswer": "4"
+  },
+
+  {
+    "id": 28,
+    "question": "როდის დაიწყო დიდი თურქობა საქართველოში?",
+    "probableAnswers": {
+      "probableAnswerOne": "1089 წელს",
+      "probableAnswerTwo": "1080 წელს",
+      "probableAnswerThree": "1203 წელს",
+      "probableAnswerFour": "735 წელს"
+    },
+    "trueAnswer": "2",
+    "forHalveAnswer": "3"
+  },
+
+  {
+    "id": 29,
+    "question": "' ხეს ადამიანივით და კიდევ უკეთესად გაეგება ყველაფერი. ადამიანზე ლამაზად და უკეთესად სიკვდილიც შეუძლია და სიცოცხლე ხომ იცის და იცის უკეთესი ' რომელი წიგნიდან არის ეს ფრაზა?",
+    "probableAnswers": {
+      "probableAnswerOne": "დათა თუთაშხია",
+      "probableAnswerTwo": "კაცია ადამიანი?",
+      "probableAnswerThree": "დიდოსტატის მარჯვენა",
+      "probableAnswerFour": "სამოსელი პირველი"
+    },
+    "trueAnswer": "1",
+    "forHalveAnswer": "4"
+  },
+
+  {
+    "id": 30,
+    "question": "რომელია დედამიწაზე ყველაზე მაღალი ჩანჩქერი?",
+    "probableAnswers": {
+      "probableAnswerOne": "ტუგელა",
+      "probableAnswerTwo": "ჟუმბილია",
+      "probableAnswerThree": "ვინუფოსენი",
+      "probableAnswerFour": "ანხელი"
+    },
+    "trueAnswer": "4",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 31,
+    "question": "რა გამოიგონა ერთ-ერთმა პატიმარმა ვიქტორმა, თუკი გეტყვით, რომ გამოგონების იდეა მაშინ გაუჩნდა, როცა ციხეში კვადრატული ფაქტურის იატაკს აკვირდებოდა?",
+    "probableAnswers": {
+      "probableAnswerOne": "ჭადრაკი",
+      "probableAnswerTwo": "შაში",
+      "probableAnswerThree": "კროსვორდი",
+      "probableAnswerFour": "მეტლახი"
+    },
+    "trueAnswer": "3",
+    "forHalveAnswer": "1"
+  },
+
+  {
+    "id": 32,
+    "question": "რისგან ვითარდება ფოთოლი?",
+    "probableAnswers": {
+      "probableAnswerOne": "ნაყოფისგან",
+      "probableAnswerTwo": "ღეროსგან",
+      "probableAnswerThree": "კვირტისგან",
+      "probableAnswerFour": "ფესვისგან"
+    },
+    "trueAnswer": "3",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 33,
+    "question": "სად შეიქმნა პირველი წყალსაცავი?",
+    "probableAnswers": {
+      "probableAnswerOne": "ჩინეთში",
+      "probableAnswerTwo": "ეგვიპტეში",
+      "probableAnswerThree": "ბაბილონში",
+      "probableAnswerFour": "მექსიკაში"
+    },
+    "trueAnswer": "2",
+    "forHalveAnswer": "4"
+  },
+
+  {
+    "id": 34,
+    "question": "რომელ ბრძოლაში დაიღუპა 9 ძმა ხერხეულიძე?",
+    "probableAnswers": {
+      "probableAnswerOne": "შამქორის",
+      "probableAnswerTwo": "ბასიანის",
+      "probableAnswerThree": "ბახტრიონის",
+      "probableAnswerFour": "მარაბდის"
+    },
+    "trueAnswer": "4",
+    "forHalveAnswer": "1"
+  },
+
+  {
+    "id": 35,
+    "question": "ძვლის ქსოვილის შემადგენლობის 80% არის?",
+    "probableAnswers": {
+      "probableAnswerOne": "კალციუმის ფოსფატი",
+      "probableAnswerTwo": "კალიუმის ფოსფატი",
+      "probableAnswerThree": "კალიუმის მარილი",
+      "probableAnswerFour": "კალციუმის მარილი"
+    },
+    "trueAnswer": "1",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 36,
+    "question": "სად მდებარეობს ყარაყუმის უდაბნო?",
+    "probableAnswers": {
+      "probableAnswerOne": "ავსტრალიაში",
+      "probableAnswerTwo": "მექსიკაში",
+      "probableAnswerThree": "თურქმენეთში",
+      "probableAnswerFour": "ინდოეთში"
+    },
+    "trueAnswer": "3",
+    "forHalveAnswer": "4"
+  },
+
+  {
+    "id": 37,
+    "question": "ჩამოთვლილთაგან რომელ ცხოველს არ აქვს კბილები?",
+    "probableAnswers": {
+      "probableAnswerOne": "დელფინს",
+      "probableAnswerTwo": "ლურჯ ვეშაპს",
+      "probableAnswerThree": "ზღარბს",
+      "probableAnswerFour": "კუს"
+    },
+    "trueAnswer": "2",
+    "forHalveAnswer": "1"
+  },
+
+  {
+    "id": 38,
+    "question": "სუფრის 'ჭურჭლიდან' რომელი გამოიგონეს ყველაზე გვიან?",
+    "probableAnswers": {
+      "probableAnswerOne": "თეფში",
+      "probableAnswerTwo": "კოვზი",
+      "probableAnswerThree": "სუფრის დანა",
+      "probableAnswerFour": "ჩანგალი"
+    },
+    "trueAnswer": "4",
+    "forHalveAnswer": "3"
+  },
+
+  {
+    "id": 39,
+    "question": "ჩამოთვლილთაგან რომელია ყველაზე თბილი ოკეანე?",
+    "probableAnswers": {
+      "probableAnswerOne": "სამხრეთის",
+      "probableAnswerTwo": "წყნარი",
+      "probableAnswerThree": "ინდოეთის",
+      "probableAnswerFour": "ატლანტის"
+    },
+    "trueAnswer": "2",
+    "forHalveAnswer": "4"
+  },
+
+  {
+    "id": 40,
+    "question": "რა წარმოადგენს რომის პაპის ძალაუფლების სიმბოლოს?",
+    "probableAnswers": {
+      "probableAnswerOne": "ნაჯახი",
+      "probableAnswerTwo": "ურო",
+      "probableAnswerThree": "ჩაქუჩი",
+      "probableAnswerFour": "ნიჩაბი"
+    },
+    "trueAnswer": "1",
+    "forHalveAnswer": "3"
+  },
+
+  {
+    "id": 41,
+    "question": "'კოლტი' ეს არის სიტყვა რომელიც სხვადასხვა კონტექსტში სხვადასხვა რამეს აღნიშნავს. ჩამოთვლილთაგან რა არ შეიძლება აღინიშნოს ამ სიტყვით?",
+    "probableAnswers": {
+      "probableAnswerOne": "მანქანის მოდელი",
+      "probableAnswerTwo": "ცეცხლსასროლი იარაღი",
+      "probableAnswerThree": "მათემატიკური სიდიდე",
+      "probableAnswerFour": "ღორის ჯოგი"
+    },
+    "trueAnswer": "3",
+    "forHalveAnswer": "4"
+  },
+
+  {
+    "id": 42,
+    "question": "რომელი ქიმიური ელემენტის სახეცვლილებაა ოზონი?",
+    "probableAnswers": {
+      "probableAnswerOne": "ქლორის",
+      "probableAnswerTwo": "წყალბადის",
+      "probableAnswerThree": "აზოტის",
+      "probableAnswerFour": "ჟანგბადის"
+    },
+    "trueAnswer": "4",
+    "forHalveAnswer": "1"
+  },
+
+  {
+    "id": 43,
+    "question": "რას აღნიშნავს თითოეული რგოლი ოლიმპიურ დროშაზე?",
+    "probableAnswers": {
+      "probableAnswerOne": "სპორტის სახეობას",
+      "probableAnswerTwo": "კონტინენტს",
+      "probableAnswerThree": "ოკეანეს",
+      "probableAnswerFour": "ქვეყანას"
+    },
+    "trueAnswer": "2",
+    "forHalveAnswer": "3"
+  },
+
+  {
+    "id": 44,
+    "question": "რომელი ხომალდით გაფრინდა იური გაგარინი კოსმოსში 1961 წლის 12 აპრილს?",
+    "probableAnswers": {
+      "probableAnswerOne": "'სპუტნიკით'",
+      "probableAnswerTwo": "'სოიუზით'",
+      "probableAnswerThree": "'ვოსტოკით'",
+      "probableAnswerFour": "'სალიუტით'"
+    },
+    "trueAnswer": "3",
+    "forHalveAnswer": "4"
+  },
+
+  {
+    "id": 45,
+    "question": "რომელმა ქართველმა მეფემ დაწერა ცნობილი საგალობელი ' შენ ხარ ვენახი '?",
+    "probableAnswers": {
+      "probableAnswerOne": "დემეტრე პირველმა",
+      "probableAnswerTwo": "თეიმურაზ პირველმა",
+      "probableAnswerThree": "დავით აღმაშენებელმა",
+      "probableAnswerFour": "ვახტანგ მეექვსემ"
+    },
+    "trueAnswer": "1",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 46,
+    "question": "ჩინეთისა და რომელი ქვეყნის საზღვარზე მდებარეობს მსოფლიოს უმაღლესი მწვერვალი ევერესტი?",
+    "probableAnswers": {
+      "probableAnswerOne": "ლაოსის",
+      "probableAnswerTwo": "მონღოლეთის",
+      "probableAnswerThree": "ნეპალის",
+      "probableAnswerFour": "ვიეტნამის"
+    },
+    "trueAnswer": "3",
+    "forHalveAnswer": "4"
+  },
+
+  {
+    "id": 47,
+    "question": "რისი საშუალებით ამყარებენ კომუნიკაციას მეთაფლია, შინაური ფუტკრები, რითაც ისინი სხვა მწერებისგან გამოირჩევიან?",
+    "probableAnswers": {
+      "probableAnswerOne": "ხმიანობით",
+      "probableAnswerTwo": "თაფლის დაქცევით",
+      "probableAnswerThree": "სუნით",
+      "probableAnswerFour": "ცეკვით"
+    },
+    "trueAnswer": "4",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 48,
+    "question": "ადამიანის უჯრედის რომელ ნაწილშია მოთავსებული ქრომოსომები?",
+    "probableAnswers": {
+      "probableAnswerOne": "პლაზმურ მემბრანაში",
+      "probableAnswerTwo": "ბირთვში",
+      "probableAnswerThree": "გარსის გარეთა შრეში",
+      "probableAnswerFour": "ციტოპლაზმაში"
+    },
+    "trueAnswer": "2",
+    "forHalveAnswer": "1"
+  },
+
+  {
+    "id": 49,
+    "question": "ვის მიიჩნევს ტრადიცია ძველი ეგვიპტის დედაქალაქის, მემფისის დამაარსებლად?",
+    "probableAnswers": {
+      "probableAnswerOne": "მენესს",
+      "probableAnswerTwo": "თუტმოს პირველს",
+      "probableAnswerThree": "სეთი პირველს",
+      "probableAnswerFour": "ეხნატონს"
+    },
+    "trueAnswer": "1",
+    "forHalveAnswer": "3"
+  },
+
+  {
+    "id": 50,
+    "question": "რომელმა ზღვაოსანმა უწოდა დედამიწის უდიდეს ოკეანეს ' წყნარი ' 1520 წელს?",
+    "probableAnswers": {
+      "probableAnswerOne": "ვასკო და გამამ",
+      "probableAnswerTwo": "ამერიგო ვესპუჩიმ",
+      "probableAnswerThree": "კრისტეფორე კოლუმბმა",
+      "probableAnswerFour": "ფერნანდო მაგელანმა"
+    },
+    "trueAnswer": "4",
+    "forHalveAnswer": "2"
+  },
+
+  {
+    "id": 51,
+    "question": "",
+    "probableAnswers": {
+      "probableAnswerOne": "",
+      "probableAnswerTwo": "",
+      "probableAnswerThree": "",
+      "probableAnswerFour": ""
+    },
+    "trueAnswer": "",
+    "forHalveAnswer": ""
+  }
+]

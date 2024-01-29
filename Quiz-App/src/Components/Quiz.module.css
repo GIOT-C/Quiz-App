@@ -1,0 +1,308 @@
+.parent {
+  width: 100%;
+  min-height: 100vh;
+  background-color: hsl(248, 15%, 11%);
+}
+
+.header {
+  width: 100%;
+  min-height: 45vh;
+}
+
+.headerMainContainer {
+  width: 100%;
+  min-height: 45vh;
+  display: flex;
+  align-items: end;
+}
+
+.headerChildContainer {
+  width: 100%;
+}
+
+.progressContainer {
+  width: 100%;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 31%;
+  border-bottom: 2px solid gray;
+}
+
+.timerContainer {
+  display: flex;
+  align-items: center;
+}
+
+.timerIsRed {
+  color: red;
+}
+
+.faHourglassStart {
+  font-size: 23px;
+  margin-left: 5px;
+  color: hsl(21, 30%, 46%);
+}
+
+.benefits {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 15.5%;
+}
+
+.halveProbableAnswers,
+.helpForCorrectAnswer,
+.heart,
+.helpForCorrectAnswerIsZero,
+.halveProbableAnswersIsZero,
+.heartIsZero {
+  display: flex;
+  padding: 0;
+  align-items: center;
+}
+
+.halveProbableAnswers,
+.helpForCorrectAnswer,
+.heart {
+  color: white;
+}
+
+.helpForCorrectAnswerIsZero,
+.halveProbableAnswersIsZero,
+.heartIsZero {
+  color: grey;
+}
+
+.faX {
+  font-size: 30px;
+  padding: 0 10px;
+}
+
+.rangeForHalfAnswers,
+.rangeForHelping,
+.rangeForHeart {
+  font-size: 37px;
+  padding-top: 3px;
+}
+
+.faHandshakeAngle {
+  color: violet;
+}
+
+.faMagnifyingGlass {
+  color: blueviolet;
+}
+
+.faHeart {
+  color: red;
+}
+
+.faMagnifyingGlass,
+.faHandshakeAngle {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.faHeart {
+  font-size: 30px;
+}
+
+.faHandshakeAngle:hover,
+.faMagnifyingGlass:hover {
+  color: white;
+  transition: 0.5s;
+}
+
+.faHandshakeAngleIsZero,
+.faMagnifyingGlassIsZero,
+.faHeartIsZero {
+  font-size: 30px;
+  color: hsl(0, 0%, 56%);
+}
+
+.body {
+  border-top: 2px solid grey;
+  padding-top: 40px;
+}
+
+.bodyMainContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+.quizContainer {
+  width: 70%;
+}
+
+.question {
+  width: 100%;
+  border: 2px solid gray;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.probableAnswerContainer {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+}
+
+.probableAnswer,
+.probableAnswerClicked {
+  width: 100%;
+  height: 50px;
+  border: 2px solid gray;
+  border-radius: 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.probableAnswer:hover {
+  background-color: yellow;
+  transition: 0.5s;
+  color: black;
+}
+
+.correctAnswer {
+  background-color: green;
+}
+
+.wrongAnswer {
+  background-color: red;
+}
+
+@media only screen and (max-width: 400px) {
+  .header {
+    min-height: 20vh;
+  }
+
+  .headerMainContainer {
+    min-height: 20vh;
+    justify-content: center;
+  }
+
+  .progressContainer {
+    padding: 0 5%;
+  }
+
+  .benefits {
+    height: 100%;
+    display: block;
+  }
+
+  .halveProbableAnswers,
+  .helpForCorrectAnswer,
+  .heart,
+  .helpForCorrectAnswerIsZero,
+  .halveProbableAnswersIsZero,
+  .heartIsZero {
+    justify-content: space-around;
+  }
+
+  .faMagnifyingGlass,
+  .faHandshakeAngle,
+  .faHeart,
+  .faHandshakeAngleIsZero,
+  .faMagnifyingGlassIsZero,
+  .faHeartIsZero,
+  .faX {
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+  .rangeForHalfAnswers,
+  .rangeForHelping,
+  .rangeForHeart {
+    font-size: 20px;
+    padding-top: 3px;
+  }
+
+  .faX {
+    padding: 0%;
+  }
+
+  .body {
+    padding-top: 20px;
+  }
+
+  .quizContainer {
+    width: 90%;
+  }
+
+  .probableAnswerContainer {
+    display: block;
+  }
+
+  .probableAnswer,
+  .probableAnswerClicked {
+    margin-bottom: 15px;
+  }
+}
+
+@media only screen and (min-width: 401px) and (max-width: 600px) {
+  .header,
+  .headerMainContainer {
+    min-height: 25vh;
+  }
+  .benefits,
+  .progressContainer {
+    padding: 0% 6%;
+  }
+
+  .quizContainer {
+    width: 90%;
+  }
+
+  .probableAnswerContainer {
+    display: block;
+  }
+
+  .probableAnswer,
+  .probableAnswerClicked {
+    margin-bottom: 20px;
+  }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+  .header,
+  .headerMainContainer {
+    min-height: 30vh;
+  }
+
+  .benefits,
+  .progressContainer {
+    padding: 0% 10%;
+  }
+
+  .quizContainer {
+    width: 80%;
+  }
+
+  .probableAnswerContainer {
+    display: block;
+  }
+
+  .probableAnswer,
+  .probableAnswerClicked {
+    margin-bottom: 20px;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+  .benefits {
+    padding: 0% 10%;
+  }
+
+  .quizContainer {
+    width: 80%;
+  }
+}

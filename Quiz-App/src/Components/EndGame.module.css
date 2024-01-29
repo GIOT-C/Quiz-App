@@ -1,0 +1,68 @@
+.endGame {
+  width: 100%;
+  min-height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.result {
+  color: deeppink;
+  font-weight: 700;
+}
+
+.restartGame {
+  width: 45%;
+  color: white;
+}
+
+.restartGame > p {
+  text-align: center;
+}
+
+.restartButtonContainer {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+.restartButton {
+  width: 200px;
+  height: 40px;
+  color: white;
+  background-color: blueviolet;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.restartButton:hover {
+  background-color: chartreuse;
+  transition: 0.5s;
+  color: black;
+}
+
+@media only screen and (max-width: 600px) {
+  .endGame {
+    min-height: 35vh;
+  }
+
+  .restartGame {
+    width: 85%;
+  }
+}
+
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+  .endGame {
+    min-height: 30vh;
+  }
+  .restartGame {
+    width: 85%;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 992px) {
+  .restartGame {
+    width: 70%;
+  }
+}
